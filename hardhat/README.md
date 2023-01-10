@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# NFT Airdrop Hunter app
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+## This app uses a smart contract to add new airdrops
+> You should use it if you love hunting airdrop
+>> it runs on Goerli testnet for now
 ```
